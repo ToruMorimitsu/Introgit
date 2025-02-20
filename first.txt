@@ -1,1 +1,5 @@
-基本的な技術を学あぬす
+基本的な技術を学びます。
+Working on it.
+git add
+git commit
+git rm
